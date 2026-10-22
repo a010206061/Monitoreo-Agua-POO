@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Monitoreo-Agua-POO/Monitoreo-Agua-POO.vcxproj" />
+  <Project Path="Monitoreo-Agua-POO/Monitoreo-Agua-POO.vcxproj" Id="23b59bed-40e5-4b0f-b971-30e628b8b990" />
 </Solution>
